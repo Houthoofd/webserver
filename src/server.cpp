@@ -5,9 +5,9 @@
 #include <string>
 #include <regex>
 
-#include "server.hpp"
-#include "../server/json.hpp"
-#include "../program/functions.hpp"
+#include "file.h"
+#include "functions.h"
+#include "server.h"
 
 using namespace std;
 

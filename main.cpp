@@ -5,6 +5,6 @@ using namespace std;
 
 int main(void){
     Server server{};
-    server.Connexion();
+    server.Run();
     return 0;
 }

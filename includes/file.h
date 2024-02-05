@@ -1,10 +1,11 @@
-#ifndef FILE_HPP
-#define FILE_HPP
-
 #include <string>
 
+#ifndef FILE_H
+#define FILE_H
+
+
+
 std::string GetFileNameFromPath(const std::string& filePath);
-bool estPremier(int nombre);
 void EnregistrerDansFichiers(int length);
 
-#endif  // FILE_HPP
+#endif  // FILE_H

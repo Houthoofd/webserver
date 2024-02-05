@@ -6,8 +6,8 @@
 #include <map>
 #include <winsock2.h>
 
-#include "../program/functions.hpp"
-#include "../filesystem/file.hpp"
+#include "functions.h"
+#include "file.h"
 
 using namespace std;
 
